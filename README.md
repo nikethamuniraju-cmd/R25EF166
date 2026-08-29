@@ -2,3 +2,5 @@ Hi, I am Niketha, a student at REVA University in the School of Computer Science
 Learning Python
 Interested in cloud computing
 Goal: contribute to open source
+## Projects
+- **Portfolio Website**: Building a responsive personal portfolio using GitHub Pages to showcase engineering projects.
